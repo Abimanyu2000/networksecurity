@@ -1,5 +1,5 @@
 import os
-
+import numpy as np
 
 """
 Defining all common constant variable for training pipeline
@@ -35,3 +35,18 @@ DATA_VALIDATION_INVALID_DIR:str = "invalid"
 DATA_VALIDATION_DRIFT_REPORT_DIR:str = "drift_report"
 DATA_VALIDATION_DRIFT_REPORT_FILE_NAME:str = "report.yaml"
 
+
+"""
+Data transformation related constant, start with DATA_TRANSFORMATION VAR name 
+"""
+
+DATA_TRANSFORMATION_DIR_NAME:str = "data_transformation"
+DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR:str = "transformed"
+DATA_TRANSFORMATION_TRANSFORMED_OBJECT_DIR:str = "transformed_object"
+PREPROCESSING_OBJECT_FILE_NAME:str = "preprocessor.pkl"
+
+DATA_TRANSFORMATION_IMPUTER_PARAMS:dict = {
+    "missing_values": np.nan,
+    "n_neighbors": 3,
+    "weights": "uniform"
+}
