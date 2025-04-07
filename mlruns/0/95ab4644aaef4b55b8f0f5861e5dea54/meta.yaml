@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vvdn/Music/ml/mlops_project_etl_pipeline/mlruns/0/95ab4644aaef4b55b8f0f5861e5dea54/artifacts
+end_time: 1744030021941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ab4644aaef4b55b8f0f5861e5dea54
+run_name: abrasive-shad-951
+run_uuid: 95ab4644aaef4b55b8f0f5861e5dea54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744030014488
+status: 3
+tags: []
+user_id: vvdn

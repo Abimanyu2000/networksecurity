@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vvdn/Music/ml/mlops_project_etl_pipeline/mlruns/0/33a154f36c22445599ce50896df35311/artifacts
+end_time: 1744027281518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33a154f36c22445599ce50896df35311
+run_name: adorable-stork-873
+run_uuid: 33a154f36c22445599ce50896df35311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744027278179
+status: 3
+tags: []
+user_id: vvdn

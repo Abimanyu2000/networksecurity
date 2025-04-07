@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vvdn/Music/ml/mlops_project_etl_pipeline/mlruns/0/9eb71e246c894be4aa430ecb3ddab7c0/artifacts
+end_time: 1744030028125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9eb71e246c894be4aa430ecb3ddab7c0
+run_name: smiling-foal-794
+run_uuid: 9eb71e246c894be4aa430ecb3ddab7c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744030022006
+status: 3
+tags: []
+user_id: vvdn
