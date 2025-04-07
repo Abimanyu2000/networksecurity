@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vvdn/Music/ml/mlops_project_etl_pipeline/mlruns/0/1cb578fef5994d9c8e704784a360b288/artifacts
+end_time: 1744021122322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cb578fef5994d9c8e704784a360b288
+run_name: adaptable-crab-319
+run_uuid: 1cb578fef5994d9c8e704784a360b288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744021119868
+status: 3
+tags: []
+user_id: vvdn

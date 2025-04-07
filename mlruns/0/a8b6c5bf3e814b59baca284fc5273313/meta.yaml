@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vvdn/Music/ml/mlops_project_etl_pipeline/mlruns/0/a8b6c5bf3e814b59baca284fc5273313/artifacts
+end_time: 1744021119829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8b6c5bf3e814b59baca284fc5273313
+run_name: welcoming-fox-674
+run_uuid: a8b6c5bf3e814b59baca284fc5273313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744021116481
+status: 3
+tags: []
+user_id: vvdn
